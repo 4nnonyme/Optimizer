@@ -34,7 +34,7 @@ A simple yet powerful Windows optimization script designed to **boost performanc
 
 ## Screenshots
 
-*(Optional: Add images of the command-line menu or steps)*
+<img width="1023" height="761" alt="image" src="https://github.com/user-attachments/assets/6c47f953-1076-4eab-bbcf-74256e4a16ff" />
 
 ---
 
