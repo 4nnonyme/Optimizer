@@ -1,147 +1,56 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PC Optimizer v2.1</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #0d1117;
-            color: #c9d1d9;
-            margin: 0;
-            padding: 20px;
-        }
-        h1, h2, h3 {
-            color: #58a6ff;
-        }
-        .container {
-            max-width: 900px;
-            margin: auto;
-        }
-        .box {
-            background: #161b22;
-            padding: 15px;
-            border-radius: 10px;
-            margin-bottom: 20px;
-        }
-        code {
-            background: #21262d;
-            padding: 5px;
-            border-radius: 5px;
-        }
-        pre {
-            background: #21262d;
-            padding: 10px;
-            border-radius: 10px;
-            overflow-x: auto;
-        }
-        .highlight {
-            color: #3fb950;
-        }
-    </style>
-</head>
-<body>
+# Windows Optimization Tool (.BAT Version)
 
-<div class="container">
+A simple yet powerful Windows optimization script designed to **boost performance**, **reduce latency**, and **improve your gaming experience** — all using a simple `.bat` file.
 
-    <h1>🖥️ PC Optimizer v2.1</h1>
-    <p><i>A simple yet powerful Windows optimization script designed to boost performance, reduce latency, and improve gaming experience.</i></p>
+---
 
-    <div class="box">
-        <h2>📌 Overview</h2>
-        <p><b>PC Optimizer v2.1</b> helps you:</p>
-        <ul>
-            <li>🎮 Boost FPS in games</li>
-            <li>🌐 Reduce network latency (ping)</li>
-            <li>⚡ Speed up your system</li>
-            <li>🧹 Clean unnecessary files</li>
-        </ul>
-        <p class="highlight">✔ Safe • ✔ No third-party tools • ✔ Uses native Windows commands</p>
-    </div>
+## Features
 
-    <div class="box">
-        <h2>🚀 Features</h2>
+- **FPS Stabilization**: Cap or unlock FPS for smoother gameplay.
+- **Shooting Mode**: Reduce input lag for shooters and competitive games.
+- **Wallpaper Changer**: Easily customize your desktop background.
+- **BlueStacks DPI Changer**: Set custom DPI for better emulator performance.
+- **Advanced Settings**: Input custom values for FPS, DPI, and other tweaks.
+- **Dark Mode Interface**: Simple command-line menus for easy use.
 
-        <h3>🌐 Network Optimization</h3>
-        <ul>
-            <li>Flush DNS cache</li>
-            <li>Renew IP address</li>
-            <li>Set fast DNS (Google & Cloudflare)</li>
-            <li>Optimize TCP</li>
-        </ul>
+---
 
-        <h3>🎮 Gaming Mode</h3>
-        <ul>
-            <li>Close background apps</li>
-            <li>Enable High Performance mode</li>
-            <li>Disable Game DVR features</li>
-        </ul>
+## Installation
 
-        <h3>🧹 Cleanup & Speedup</h3>
-        <ul>
-            <li>Delete temp files</li>
-            <li>Clear cache</li>
-            <li>Empty recycle bin</li>
-            <li>Disk defragmentation</li>
-        </ul>
+1. Download the `.bat` file from this repository.
+2. Place it anywhere on your computer.
+3. **Run as Administrator** for full functionality.
 
-        <h3>🔒 System Security</h3>
-        <ul>
-            <li>Windows Defender scan</li>
-            <li>Security updates</li>
-        </ul>
+---
 
-        <h3>⚡ Full Boost</h3>
-        <p>Runs all optimizations in one click.</p>
+## Usage
 
-        <h3>📊 System Info</h3>
-        <p>Displays CPU, RAM, IP and disk usage.</p>
-    </div>
+1. Double-click the `.bat` file to launch the tool.
+2. Select the option you want to apply.
+3. Follow the on-screen instructions to optimize Windows settings.
+4. Enjoy smoother performance and improved gaming experience!
 
-    <div class="box">
-        <h2>⚙️ Requirements</h2>
-        <ul>
-            <li>Windows 10 / 11</li>
-            <li>Administrator privileges</li>
-        </ul>
-    </div>
+---
 
-    <div class="box">
-        <h2>▶️ How to Use</h2>
-        <pre>
-1. Right-click "Optimizer.bat"
-2. Click "Run as administrator"
-3. Choose option (0 → 6)
-4. Wait for completion
-        </pre>
-    </div>
+## Screenshots
 
-    <div class="box">
-        <h2>⚠️ Notes</h2>
-        <ul>
-            <li>Some options close running apps</li>
-            <li>DNS settings will change</li>
-            <li>Defrag may take time</li>
-            <li>Save your work before running</li>
-        </ul>
-    </div>
+*(Optional: Add images of the command-line menu or steps)*
 
-    <div class="box">
-        <h2>🛠️ Future Improvements</h2>
-        <ul>
-            <li>GUI version (Python / C#)</li>
-            <li>Advanced tweaks</li>
-            <li>Dark mode interface</li>
-        </ul>
-    </div>
+---
 
-    <div class="box">
-        <h2>👤 Author</h2>
-        <p><b>Y4SSSSYN 😎</b></p>
-    </div>
+## Contributing
 
-</div>
+Contributions are welcome!  
+If you find a bug or want to suggest a feature, please open an issue or submit a pull request.
 
-</body>
-</html>
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## Contact
+
+For support or questions, contact: **Email-Not-Available-404**
